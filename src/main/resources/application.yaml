@@ -1,0 +1,5 @@
+sso:
+  acs: https://www.jiandaoyun.com/sso/custom/5b433bf80118dc44bcb9183c/acs
+  issuer: com.example
+  username: angelmsger
+  secret: jdy
